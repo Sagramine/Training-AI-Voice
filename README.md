@@ -11,4 +11,4 @@ Semua dalam 1 versi : WAV Download, Pemisahan Vokal, Pemisahan Audio, Pelatihan,
 [![Buka Di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1epuOzmbxIScg9G12JoZuwR112UelDFqS)
 
 ### Training and Inference (Stored in GDrive)
-[![Buka Di Colab](https://colab.research.google.com/drive/10uPIDEzZoiqZs28KvZ6yFDA1sjMtXILE)
+[![Buka Di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/10uPIDEzZoiqZs28KvZ6yFDA1sjMtXILE)
