@@ -8,7 +8,7 @@ Semua dalam 1 versi : WAV Download, Pemisahan Vokal, Pemisahan Audio, Pelatihan,
 
 
 ### Download Youtube WAV and Splitting Audio (Stored in GDrive)
-[![Buka Di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AI-Song-Cover-RVC/blob/main/Download_Youtube_WAV_and_Splitting_Audio.ipynb)
+[![Buka Di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1epuOzmbxIScg9G12JoZuwR112UelDFqS)
 
 ### Training and Inference (Stored in GDrive)
 [![Buka Di Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ardha27/AI-Song-Cover-RVC/blob/main/RVC_Training.ipynb)
