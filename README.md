@@ -3,7 +3,7 @@ Semua dalam 1 versi : WAV Download, Pemisahan Vokal, Pemisahan Audio, Pelatihan,
 ## Info lainnya
 [![Facebook](https://upload.wikimedia.org/wikipedia/commons/8/89/Facebook_Logo_%282019%29.svg)](https://www.facebook.com/nobyl)
 <a href="https://www.instagram.com/darenobyl">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/600px-Instagram_logo_2022.svg.png" alt="Instagram" height="35">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/600px-Instagram_logo_2022.svg.png" alt="Instagram" height="20">
 </a>
 
 
